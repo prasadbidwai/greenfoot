@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inspector()
+comment1.params=coin
+comment1.target=void\ inspectcoin(java.lang.String)
+numComments=2
